@@ -58,6 +58,8 @@ html {
 
 body {
   line-height: 1.5;
+  text-align: center;
+  margin: 0 auto;
   font-family: "Caveat", cursive;
   background: radial-gradient(#e66465, #9198e5);
 }

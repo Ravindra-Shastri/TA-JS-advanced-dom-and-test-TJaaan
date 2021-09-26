@@ -48,7 +48,6 @@ table {
 }
 
 
-
 // CUSTOM STYLES
 
 html {
@@ -56,10 +55,10 @@ html {
 }
 body {
     line-height: 1.5;
+    text-align: center;
+    margin: 0 auto;
     font-family: 'Caveat', cursive;
     background: radial-gradient(#e66465, #9198e5);
-    // background: radial-gradient(ellipse at top, #e66465, transparent),
-    //             radial-gradient(ellipse at bottom, #4d9f0c, transparent);
 }
 h1 {
     font-size: 2.5rem;
