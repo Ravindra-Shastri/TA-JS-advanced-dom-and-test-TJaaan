@@ -4,8 +4,8 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "jest --passWithNoTests",
-    "start": "parcel ./code/index.html"
+    "test": "jest --passWithNoTests"
+    "start": 
   },
   "author": "AltCampus",
   "license": "GNU GPL V3",
