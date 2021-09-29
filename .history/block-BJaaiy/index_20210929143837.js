@@ -52,9 +52,5 @@ console.log(longDate);
 
 let day = moment().format('dddd');
 console.log(day);
-let dateShort = moment().format('MMM Do YY');
-console.log(dateShort);
 
-let dateElt = '2020-01-01';
-var aDate   = moment(dateElt, 'YYYY-MM-DD', true);
 
