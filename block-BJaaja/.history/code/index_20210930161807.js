@@ -1,4 +1,4 @@
-// let user = 'Arya';
+let user = 'Arya';
 
 const user = 'Arya';
 
@@ -210,4 +210,16 @@ function getFullName(user) {
   return `${firstName} ${lastName}`;
 }
 
-getFullName('John');
+// getFullName('John');
+// © 2021 GitHub, Inc.
+// Terms
+// Privacy
+// Security
+// Status
+// Docs
+// Contact GitHub
+// Pricing
+// API
+// Training
+// Blog
+// About 
