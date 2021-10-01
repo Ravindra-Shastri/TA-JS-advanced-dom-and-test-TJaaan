@@ -1,4 +1,18 @@
+function add() {}
 
+function subtract() {}
+
+function sum() {}
+
+function multiply() {}
+
+function power() {}
+
+function factorial() {}
+
+module.exports = {
+  add,
+  subtract
 function add(...numbers) {
   return numbers.reduce((acc, cv) => {
     acc = acc + cv;
